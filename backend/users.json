@@ -1,0 +1,12 @@
+[
+    { "aadhaar": "987654321098", "name": "Anjali Sharma" },
+    { "aadhaar": "123456789012", "name": "Rahul Verma" },
+    { "aadhaar": "234567890123", "name": "Priya Singh" },
+    { "aadhaar": "345678901234", "name": "Amit Kumar" },
+    { "aadhaar": "456789012345", "name": "Sneha Gupta" },
+    { "aadhaar": "567890123456", "name": "Vikram Mehta" },
+    { "aadhaar": "678901234567", "name": "Neha Joshi" },
+    { "aadhaar": "789012345678", "name": "Karan Sharma" },
+    { "aadhaar": "890123456789", "name": "Pooja Rani" }
+  ]
+  
